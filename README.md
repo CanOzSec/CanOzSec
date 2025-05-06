@@ -5,10 +5,8 @@
 I am a Penetration Tester from Turkey.
 
 - 🌱 I am studying Information Technology Systems Engineering.
-- ⚡ In my free time I solve boxes on HackTheBox and TryHackMe or play CTFs.
-- 🔭 I am currently working on exploit development.
+- ⚡ In my free time I solve boxes on HackTheBox or play CTFs.
 - 📫 You can reach me from: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-CanOzSec-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/CanOzSec)
-
 
 
 ---
