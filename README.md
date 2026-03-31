@@ -1,11 +1,7 @@
 <p align="center">
 
 
-Hi, I am a Penetration Tester from Turkey.
-
-- In my free time I solve boxes or challenges on platforms like pwn.college and HackTheBox, or write some offensive tools.
-- I am currently training on reverse engineering, vulnerability research and exploit development.
-- You can reach me from: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-CanOzSec-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/CanOzSec)
+I am an offensive security practitioner specialising in implant and exploit development, low-level software, and Active Directory environments. I have been working in information security since 2020, and in my free time I practise on HackTheBox, pwn.college, and various CTFs. You can reach me from: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-CanOzSec-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/CanOzSec)
 
 
 ---
